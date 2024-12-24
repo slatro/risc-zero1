@@ -73,7 +73,7 @@ npx phase2cli contribute
 
 
 
-### Kodları silme ve kaldırma
+### Kodları silme ve kaldırma:
 
 ```
 npx phase2cli clean
